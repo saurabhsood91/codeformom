@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\bin\Debug\CodeForMom.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\CodeForMom.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\CodeForMom_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\bin\Debug\CodeForMom.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\bin\Debug\CodeForMom.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\CodeForMom.g.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\CodeForMom.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\CodeForMom.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\CodeForMom.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\CodeForMom\CodeForMom\obj\Debug\CodeForMom.pdb

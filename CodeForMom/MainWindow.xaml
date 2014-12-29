@@ -1,0 +1,26 @@
+﻿<Window x:Class="CodeForMom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="LayoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="16*"/>
+            <ColumnDefinition Width="436*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="VideoUrl" HorizontalAlignment="Left" Height="23" Margin="100,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="309" RenderTransformOrigin="0.5,0.5" Grid.Column="2" GotFocus="onURLBoxFocus">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.085"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Button Content="Download" HorizontalAlignment="Left" Margin="89.664,186,0,0" VerticalAlignment="Top" Width="121" Height="27" Click="Download" RenderTransformOrigin="-1.468,5.242" Grid.Column="2" IsDefault="True"/>
+        <Label Content="*Enter URL of Video" HorizontalAlignment="Left" Margin="31,35,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
+        <TextBox Name="FileName" HorizontalAlignment="Left" Height="23" Margin="102,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="310" Grid.Column="2"/>
+        <Label Content="*Enter File Name of mp3" HorizontalAlignment="Left" Margin="31,108,0,0" VerticalAlignment="Top" Width="147" Grid.ColumnSpan="3"/>
+    </Grid>
+</Window>
